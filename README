@@ -1,0 +1,19 @@
+# Netflix Movies and TV Show Project
+
+## Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Description
+The Netflix Movies and TV Show Project is a web application that allows users to browse and discover information about movies and TV shows available on Netflix. It provides a user-friendly interface to explore the vast library of content, view details about each title, and stay updated on the latest additions.
+
+## Features
+- **Search and Filter:** Easily search for movies and TV shows by title, genre, release year, and more.
+- **Detailed Information:** Get detailed information about each title, including synopsis, cast, and crew.
+- **User Ratings:** View user ratings and reviews to help make informed decisions on what to watch.
+- **Personalized Recommendations:** Receive personalized recommendations based on user preferences and viewing history.
+- **Latest Additions:** Stay up-to-date with the latest additions to the Netflix library.
