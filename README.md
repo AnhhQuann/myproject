@@ -4,7 +4,7 @@ The dataset used in this project can be found on Kaggle:
 
 _https://www.kaggle.com/code/vijayjoshi17/netflix-data-analysis-cosine-recommendation_
 
-It contains Netflix movie and TV show data such as titles, genres, ratings, and time.
+It contains Netflix movie and TV show data such as titles, genres, ratings and duration for each movie/TV show.
 
 ## **Project Overview**
 This project performs analysis on the Netflix data to gain insights into the movies and shows. Some key points:
